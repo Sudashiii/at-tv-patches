@@ -18,7 +18,25 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0-dev.4](https://github.com/Sudashiii/servus-patches/releases/tag/v1.0.0-dev.4)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;5 patches total
+> **[v1.0.0-dev.5](https://github.com/Sudashiii/at-tv-patches/releases/tag/v1.0.0-dev.5)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;9 patches total
+<details open>
+<summary>📦 ORF ON&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 6.13.5-mobile | 6.14.15-tv |
+| :---: | :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Block forced updates](#block-forced-updates) | Makes the 'Update required' dialog dismissible, so the patched app can't be locked out by a forced update. |  |
+| [Disable tracking](#disable-tracking) | Stops ÖWA/INFOnline reach measurement, GfK video measurement, Bitmovin player analytics and Sentry crash reporting from starting. |  |
+| [Disable video ads](#disable-video-ads) | Removes pre-roll and post-roll ads from videos, live channels and timeshift. |  |
+| [Reject cookie banner](#reject-cookie-banner) | Skips the cookie consent banner and saves 'Disagree to all' instead, as if you declined it. The privacy settings in the app stay available. |  |
+
+</details>
+
 <details open>
 <summary>📦 ServusTV On&nbsp;&nbsp;•&nbsp;&nbsp;5 patches</summary>
 <br>
