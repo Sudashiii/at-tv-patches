@@ -1,4 +1,4 @@
-rootProject.name = "servus-patches"
+rootProject.name = "at-tv-patches"
 
 pluginManagement {
     repositories {

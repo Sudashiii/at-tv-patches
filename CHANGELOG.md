@@ -1,3 +1,9 @@
+## [1.0.0-dev.5](https://github.com/Sudashiii/at-tv-patches/compare/v1.0.0-dev.4...v1.0.0-dev.5) (2026-10-16)
+
+### ✨ New Features
+
+* Feat/orf on patches ([#7](https://github.com/Sudashiii/at-tv-patches/issues/7)) ([71c1c1e](https://github.com/Sudashiii/at-tv-patches/commit/71c1c1e7794d4b0aa3fbb40ebebfc431a0e364ba))
+
 ## [1.0.0-dev.4](https://github.com/Sudashiii/servus-patches/compare/v1.0.0-dev.3...v1.0.0-dev.4) (2026-10-09)
 
 ### ✨ New Features

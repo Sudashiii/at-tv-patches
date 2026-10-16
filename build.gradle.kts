@@ -1,1 +1,1 @@
-// Root build configuration for servus-patches
+// Root build configuration for at-tv-patches
