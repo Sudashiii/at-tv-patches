@@ -2,12 +2,12 @@ group = "app.servus"
 
 patches {
     about {
-        name = "Servus Patches (unofficial)"
-        description = "Personal Morphe patches for ServusTV On"
-        source = "git@github.com:Sudashiii/servus-patches.git"
+        name = "AT TV Patches (unofficial)"
+        description = "Personal Morphe patches for ServusTV On and ORF ON"
+        source = "git@github.com:Sudashiii/at-tv-patches.git"
         author = "Sudashiii"
-        contact = "https://github.com/Sudashiii/servus-patches/issues"
-        website = "https://github.com/Sudashiii/servus-patches"
+        contact = "https://github.com/Sudashiii/at-tv-patches/issues"
+        website = "https://github.com/Sudashiii/at-tv-patches"
         license = "GPLv3"
     }
 }
