@@ -1,6 +1,6 @@
-# 🧩 Servus Patches (unofficial)
+# 🧩 AT TV Patches (unofficial)
 
-Morphe patches for the ServusTV On and ORF ON Android apps.
+Morphe patches for Austrian TV apps: ServusTV On and ORF ON.
 
 ## ❓ About
 
@@ -13,7 +13,7 @@ Unofficial patches for, on phones and Android TV:
 
 ### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=Sudashiii/servus-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=Sudashiii/at-tv-patches
 
 ## 🩹 Patches list
 
@@ -62,8 +62,8 @@ See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation
   paid or geo-restricted content.
 - Use at your own risk and responsibility. Modifying the app may violate its terms of use. The software is provided
   "as is", without warranty of any kind (see the license).
-- Rights holders with concerns can [open an issue](https://github.com/Sudashiii/servus-patches/issues).
+- Rights holders with concerns can [open an issue](https://github.com/Sudashiii/at-tv-patches/issues).
 
 ## 📜 License
 
-Servus Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+AT TV Patches are licensed under the [GNU General Public License v3.0](LICENSE)
