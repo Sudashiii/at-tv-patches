@@ -3,7 +3,7 @@ group = "app.servus"
 patches {
     about {
         name = "Servus Patches (unofficial)"
-        description = "Personal Morphe patches for ServusTV On"
+        description = "Personal Morphe patches for ServusTV On and ORF ON"
         source = "git@github.com:Sudashiii/servus-patches.git"
         author = "Sudashiii"
         contact = "https://github.com/Sudashiii/servus-patches/issues"
