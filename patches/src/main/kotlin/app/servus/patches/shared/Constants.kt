@@ -18,5 +18,7 @@ object Constants {
             // Fingerprints only rely on strings, not on obfuscated names, so later releases likely work too.
             AppTarget(version = null, isExperimental = true),
         ),
+        // The same APK runs on phones and Android TV.
+        formFactor = null,
     )
 }

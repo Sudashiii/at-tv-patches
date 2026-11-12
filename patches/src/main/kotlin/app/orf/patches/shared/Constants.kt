@@ -17,13 +17,14 @@ object Constants {
         targets = listOf(
             // Developed and tested against these releases (APKMirror, versionCodes 5000169 and 5000184).
             // Morphe shows both under one app card, so the descriptions say which build is for which device.
-            // Passing versionCodes picks AppTarget's primary constructor: the shorter one taking a description
-            // drops it (morphe-patcher 1.15.0).
-            AppTarget(version = "6.13.5-mobile", versionCodes = null, description = "Phone and tablet"),
-            AppTarget(version = "6.14.15-tv", versionCodes = null, description = "Android TV"),
+            AppTarget(version = "6.13.5-mobile", description = "Phone and tablet"),
+            AppTarget(version = "6.14.15-tv", description = "Android TV"),
             // Fingerprints rely on strings and on SDK/model names that the app keeps, not on obfuscated names,
             // so later releases likely work too.
             AppTarget(version = null, isExperimental = true),
         ),
+        // One entry for both builds: Morphe Manager merges entries by package name, so separate MOBILE and TV
+        // entries wouldn't show up as separate apps yet. The target descriptions tell the builds apart instead.
+        formFactor = null,
     )
 }
